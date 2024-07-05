@@ -91,7 +91,7 @@ To retrieve data and work with this database:
     Make sure to update the database connection settings in your `.env` file 
     Included .env file to your project should include this lines with your information.
     ```
-    DB_USER = 'your_db_user_name'
+    DB_USER = 'your_db_user_name' 
     DB_PASSWORD = 'your_password'
     ``` 
     or 
@@ -113,6 +113,6 @@ I would like to here from you: do not hesitate to reach out for any questions, c
 
 Kübra Nazlıhan IŞIK - [kuisik@gmail.com](kuisik@gmail.com)
 
-Project Link: [https://github.com/username/food-order-app-tests](https://github.com/KubraIsik/Food-Order-App-Test-Project.git)
+Project Link: [https://github.com/KubraIsik/Food-Order-App-Test-Project.git](https://github.com/KubraIsik/Food-Order-App-Test-Project.git)
     
 
