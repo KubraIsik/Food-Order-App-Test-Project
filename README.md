@@ -87,16 +87,16 @@ To retrieve data and work with this database:
     psql -d food_order_db -f db_setup/sqlQueriesToCopyDataFromCsvFiles.sql
     ```
 
-***To be able connect db while running pytest project:
+*To be able connect db while running pytest project:*
     Make sure to update the database connection settings in your `.env` file 
-        Included.env file to your project should include this lines with your information.
-         ```bash
-         DB_USER = "your_db_user_name"
-         DB_PASSWORD = "your_password"
-         ``` 
+    Included .env file to your project should include this lines with your information.
+    ```
+    DB_USER = 'your_db_user_name'
+    DB_PASSWORD = 'your_password'
+    ``` 
     or 
     the configuration file of your project accordingly
-        Change code lines inside `db_utils.py` file with your information(db user name and password).**
+        Change code lines inside `db_utils.py` file with your information(db user name and password).
 
 ## Running Tests
 
