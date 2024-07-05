@@ -1,0 +1,5 @@
+pytest
+selenium
+pytest-selenium    # pytest plugin for Selenium WebDriver
+python-dotenv # to create enviroment variables and read (optional)
+openpyxl # to read excel files
